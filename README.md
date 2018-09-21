@@ -12,3 +12,6 @@ Any person with some programming (in Python) and statistics background who is cu
 * [Clojure for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/clojure-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783284351)
 
 * [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r?utm_source=github&utm_medium=repository&utm_campaign=9781782162148)
+
+#PDF
+https://www.packtpub.com/sites/default/files/downloads/MachineLearningfortheWeb_ColorImages.pdf
